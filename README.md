@@ -1,3 +1,7 @@
+ALL CREDIT GIVEN TO motdotla AT REPO https://github.com/motdotla/ansible-pi  I AM ONLY STORING THIS FOR ARCHIVAL PURPOSES SINCE I USE IT SO MUCH!
+
+
+
 # ansible-pi
 
 ![](https://raw.github.com/motdotla/ansible-pi/master/ansible-pi.jpg)
